@@ -8,7 +8,9 @@ import os
 pygame.init()
 
 #Game Defaults
+icon=pygame.image.load(os.path.join(os.getcwd(),'static','hero','standing.png'))
 screen=pygame.display.set_mode((840,640))
+pygame.display.set_icon(icon)
 bgList=[pygame.image.load(os.path.join(os.getcwd(),'static','bgMain.png')),pygame.image.load(os.path.join(os.getcwd(),'static','bgAsse.png'))]
 run_state=True
 villanControlSystem=[]
