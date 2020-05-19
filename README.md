@@ -6,10 +6,10 @@ This is developed for a contest (link:https://abibv.github.io/pyweek/)
 -----------------------------------------------------------------------------------
 # LIBRARIES REQUIRED:
 
-Markup: * Pygame
-        * OS
-        * Random
-        * math
+* Pygame
+* OS
+* Random
+* math
         
 ------------------------------------------------------------------------------------
 # Commands
@@ -21,3 +21,6 @@ Documentation and other stuff : www.pygame.org
 --------------------------------------------------------------------------------------
 # Some Images:
 
+![screenshot1](shots/pic1.JPG)
+
+![screenshot2](shots/pic2.JPG)
