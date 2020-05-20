@@ -3,6 +3,13 @@ This is a simple game developed using pygame libraray.
 
 This is developed for a contest (link:https://abibv.github.io/pyweek/)
 
+----------------------------------------------------------------------------------
+# How to start:
+
+Run the main.py script.
+
+`python3 main.py`
+
 -----------------------------------------------------------------------------------
 # LIBRARIES REQUIRED:
 
